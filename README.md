@@ -1,2 +1,2 @@
 Para acessar o site
-https://github.com/amanda-tsampaio
+https://amanda-tsampaio.github.io/projeto-android/
